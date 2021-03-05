@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:my_app/screen/splash/sign_in/sign_in_screen.dart';
+import 'package:my_app/screen/sign_in/sign_in_screen.dart';
 import 'package:my_app/screen/splash/splash_screen.dart';
 
 // we use name route

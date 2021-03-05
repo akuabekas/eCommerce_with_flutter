@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:my_app/components/default_button.dart';
 import 'package:my_app/constant.dart';
+import 'package:my_app/screen/sign_in/sign_in_screen.dart';
 import 'package:my_app/screen/splash/components/splash_content.dart';
-import 'package:my_app/screen/splash/sign_in/sign_in_screen.dart';
 import 'package:my_app/size_config.dart';
 
 class Body extends StatefulWidget {
